@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PRODUCTION APIs "
+  message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Muhammet Celik - PROD Developer"
     email: "{cipher}7bc096872ec9ee6fc4f9a4713b9b2c243c8482e4870de770af3a84a300fe0128cc6c9f0b79c28b57f7409a50592d2680"
