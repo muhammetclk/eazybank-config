@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+  message: "Welcome to EazyBank loans related prod production APIs "
   contactDetails:
     name: "Muhammet Celik - prod Developer"
     email: "muhammetclk56@gmail.com"
